@@ -8,7 +8,7 @@ Prototype with Vuforia
 * Mastocito (mast cell microscopy) color morado.
 * Se juntan los tres y el mastocito estalla con todas las cosas moradas.
 
-* Antihitamine cell microscopy al mezclarlo desaparecen los granulos morados de haber explotado el mastocito
+* Antihistamine cell microscopy al mezclarlo desaparecen los granulos morados de haber explotado el mastocito
 
 ![imagen](https://user-images.githubusercontent.com/16170732/184054536-a840d389-fafe-47a1-9c4a-38eb07427e35.png)
 ![imagen](https://user-images.githubusercontent.com/16170732/184055047-07ff99aa-42a1-4eca-8943-dd4bae1a98db.png)
