@@ -11,3 +11,7 @@ Prototype with Vuforia
 * Antihitamine cell microscopy al mezclarlo desaparecen los granulos morados de haber explotado el mastocito
 
 ViralZone y PDBsum tienen biblioteca de modelos 3D tanto de virus como de proteínas.
+
+
+Credits:
+"Antibodies IgE" (https://skfb.ly/o6nuq) by LucasPresoto is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
