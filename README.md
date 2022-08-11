@@ -13,5 +13,10 @@ Prototype with Vuforia
 ViralZone y PDBsum tienen biblioteca de modelos 3D tanto de virus como de proteínas.
 
 
-Credits:
-"Antibodies IgE" (https://skfb.ly/o6nuq) by LucasPresoto is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+**Creditos:**
+
+* "Antibodies IgE" (https://skfb.ly/o6nuq) by LucasPresoto is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+* Migrated MorphoSource 1 Media Citation Instructions: Oliver Wilson provided access to these datathrough the 3D Pollen Project. The files were downloaded from www.MorphoSource.org, Duke University.
