@@ -2,6 +2,8 @@
 Prototype with Vuforia
 https://play.google.com/store/apps/details?id=com.RobotitoStudios.AR_Biology
 
+My itch.io https://spark-23.itch.io/
+
 **Requisitos:**
 
 * Anti cuerpo ige (sketchfab antibodies IgE https://sketchfab.com/3d-models/antibodies-ige-57a9a24eba3841aaacaf6cbb88d87a01).
