@@ -1,29 +1,29 @@
-# Biology-Augmented-Reality
-Prototype with Vuforia
-https://play.google.com/store/apps/details?id=com.RobotitoStudios.AR_Biology
+# My itch.io https://spark-23.itch.io/
 
-My itch.io https://spark-23.itch.io/
+# Biology-Augmented-Reality
+Prototipado con Vuforia
+**Publicado en:** https://play.google.com/store/apps/details?id=com.RobotitoStudios.AR_Biology
 
 **Requisitos:**
 
 * Anti cuerpo ige (sketchfab antibodies IgE https://sketchfab.com/3d-models/antibodies-ige-57a9a24eba3841aaacaf6cbb88d87a01).
 * Alargeno polen bet v1 (amarillo).
 * Mastocito (mast cell microscopy) color morado.
-* Se juntan los tres y el mastocito estalla con todas las cosas moradas.
+* Se juntan los tres y el mastocito estalla con todas los  moradas.
+
+**Referencias:**
 
 * Antihistamine cell microscopy al mezclarlo desaparecen los granulos morados de haber explotado el mastocito
 
 ![imagen](https://user-images.githubusercontent.com/16170732/184054536-a840d389-fafe-47a1-9c4a-38eb07427e35.png)
 ![imagen](https://user-images.githubusercontent.com/16170732/184055047-07ff99aa-42a1-4eca-8943-dd4bae1a98db.png)
 
-
-
 ViralZone y PDBsum tienen biblioteca de modelos 3D tanto de virus como de proteínas.
 
-
-
-
 **Creditos:**
+* Mastocito  (Realizado por mí en Blender 3D)
+
+* Histamina (Realizado por mí en Unity shader)
 
 * "Antibodies IgE" (https://skfb.ly/o6nuq) by LucasPresoto is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
