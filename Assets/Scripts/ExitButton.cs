@@ -26,7 +26,16 @@ public class ExitButton : MonoBehaviour
         exitButton.SetActive(true);
     }
 
+<<<<<<< Updated upstream
     // Método para salir de la aplicación    
+=======
+    // Método para mover la aplicación a segundo plano en Android
+    public void ExitApplication()
+    {
+        MoveAndroidApplicationToBack();
+    }
+
+>>>>>>> Stashed changes
     public static void MoveAndroidApplicationToBack()
     {
         AndroidJavaObject activity = new AndroidJavaClass("com.unity3d.player.UnityPlayer").GetStatic<AndroidJavaObject>("currentActivity");
