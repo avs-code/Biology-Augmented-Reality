@@ -145,7 +145,11 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
+<<<<<<< Updated upstream
   bundleVersion: 1.0.7
+=======
+  bundleVersion: 1.0.8
+>>>>>>> Stashed changes
   preloadedAssets:
   - {fileID: 0}
   metroInputSource: 0
@@ -176,7 +180,11 @@ PlayerSettings:
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
+<<<<<<< Updated upstream
   AndroidBundleVersionCode: 7
+=======
+  AndroidBundleVersionCode: 8
+>>>>>>> Stashed changes
   AndroidMinSdkVersion: 34
   AndroidTargetSdkVersion: 34
   AndroidPreferredInstallLocation: 1
