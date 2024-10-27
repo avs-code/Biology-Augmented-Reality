@@ -4,12 +4,14 @@ using UnityEngine;
 public class IgeActivation : MonoBehaviour
 {
     public ParticleSystem[] histaminas;
+    [Header("Animator")]
     [SerializeField] Animator m_Animator;
+    [Header("Targets")]
     [SerializeField] GameObject pollenTarget;
-    [SerializeField] GameObject pollenAnimation;
     [SerializeField] GameObject igeTarget;
-    [SerializeField] GameObject igeAnimation;
-
+    [Header("Animations")]
+    [SerializeField] GameObject[] pollenAnimations;
+    [SerializeField] GameObject[] igeAnimations;
 
     void Start()
     {
@@ -20,17 +22,23 @@ public class IgeActivation : MonoBehaviour
         }
     }
 
-
     private void OnTriggerEnter(Collider other)
     {
         //Check to see if the Collider's name is "Pollen" enable particle system (histamina)
         if (other.gameObject.tag == "pollen")
         {
-
             igeTarget.SetActive(false);
             pollenTarget.SetActive(false);
-            igeAnimation.SetActive(true);
-            pollenAnimation.SetActive(true);
+
+            foreach (GameObject igeAnimation in igeAnimations)
+            {
+                igeAnimation.SetActive(true);
+            }
+
+            foreach (GameObject pollenAnimation in pollenAnimations)
+            {
+                pollenAnimation.SetActive(true);
+            }
 
             m_Animator.SetTrigger("Pollen");
 
@@ -45,11 +53,18 @@ public class IgeActivation : MonoBehaviour
     {
         if (other.gameObject.tag == "pollen")
         {
-
             igeTarget.SetActive(true);
             pollenTarget.SetActive(true);
-            igeAnimation.SetActive(false);
-            pollenAnimation.SetActive(false);
+
+            foreach (GameObject igeAnimation in igeAnimations)
+            {
+                igeAnimation.SetActive(false);
+            }
+
+            foreach (GameObject pollenAnimation in pollenAnimations)
+            {
+                pollenAnimation.SetActive(false);
+            }
 
             m_Animator.ResetTrigger("Pollen");
 
