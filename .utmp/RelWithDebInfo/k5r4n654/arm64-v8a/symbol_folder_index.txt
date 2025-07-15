@@ -1,0 +1,1 @@
+E:\Users\spark\Documents\Unity\Proyectos\AR Biology\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\k5r4n654\obj\arm64-v8a
