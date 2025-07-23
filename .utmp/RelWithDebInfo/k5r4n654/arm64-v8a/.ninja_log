@@ -1,3 +1,5 @@
 # ninja log v5
-1	255	7743224016973376	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	58e8a41a187d4c58
-256	360	7743224018024541	E:/Users/spark/Documents/Unity/Proyectos/AR Biology/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/k5r4n654/obj/arm64-v8a/libswappywrapper.so	de6ce2d7d9e468cd
+2	129	7749984623094736	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	58e8a41a187d4c58
+130	246	7749984624268951	E:/Users/spark/Documents/Unity/Proyectos/AR Biology/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/k5r4n654/obj/arm64-v8a/libswappywrapper.so	de6ce2d7d9e468cd
+2	141	7749986087276409	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	58e8a41a187d4c58
+141	256	7749986088423667	E:/Users/spark/Documents/Unity/Proyectos/AR Biology/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/k5r4n654/obj/arm64-v8a/libswappywrapper.so	de6ce2d7d9e468cd
